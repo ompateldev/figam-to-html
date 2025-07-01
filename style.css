@@ -153,6 +153,7 @@ header {
 }
 
 /* ------------------ trust Section end ------------------ */
+
 /* ------------------ collaborate Section start ------------------ */
 
 .collaborate {
@@ -201,6 +202,22 @@ header {
   line-height: 24px;
   color: #fff;
 }
+/* ------------------ collaborate Section end ------------------ */
+
+/* ------------------ work Section start ------------------ */
+
+.work-section{
+  width: 100%;
+  float: left;
+}
+.work-image{
+  background-image: url("img/work-image.png");
+  background-size: 100% 100%;
+  object-fit: contain;
+}
+
+
+/* ------------------ work Section end ------------------ */
 
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
